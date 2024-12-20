@@ -4,7 +4,8 @@
   "description": "primer proyecto de Note.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./index.js",
+    "server": "nodemon ./index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cbpeqroo/Node-JT-bienes-raices-/issues"
   },
-  "homepage": "https://github.com/cbpeqroo/Node-git@github.com:cbpeqroo/Node-JT-bienes-raices-.gitJT-bienes-raices-#readme"
+  "homepage": "https://github.com/cbpeqroo/Node-git@github.com:cbpeqroo/Node-JT-bienes-raices-.gitJT-bienes-raices-#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
