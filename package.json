@@ -1,0 +1,19 @@
+{
+  "name": "node-jt-bienes-raices-",
+  "version": "1.0.0",
+  "description": "primer proyecto de Note.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cbpeqroo/Node-JT-bienes-raices-.git"
+  },
+  "author": "Shoic3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbpeqroo/Node-JT-bienes-raices-/issues"
+  },
+  "homepage": "https://github.com/cbpeqroo/Node-git@github.com:cbpeqroo/Node-JT-bienes-raices-.gitJT-bienes-raices-#readme"
+}
